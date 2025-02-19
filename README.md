@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raman Lohar</h1>
+<h1 align="center">Hi 👋, I'm Raman Kumar</h1>
 <h3 align="center">Tech Enthusiast | AI & Web Developer | Self-Hosting Expert</h3>
 
 <p align="center">
